@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gui.h": "c",
+			"modbusrtu.h": "c",
+			"main.h": "c",
+			"ui.h": "c",
+			"random": "cpp"
+		}
+	}
+}
